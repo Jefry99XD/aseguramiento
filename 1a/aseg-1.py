@@ -139,10 +139,3 @@ def ordinal_dia(f):
                 return 59 + f[2]
         case 2:
             return 31 + f[2]
-'''
-def imprimir_3x4(f):
-    calcularYearGregoriano(f)
-    return 
-
-def calcularYearGregoriano(year):
-'''
